@@ -23,7 +23,7 @@ Speech Recognition is an important feature in several applications used such as 
 2. Run the code
    Check the Python file for the implementation. The code is mentioned below.
 ```
-   # Python program to translate
+# Python program to translate
 # speech to text and text to speech
 
 
